@@ -1,9 +1,12 @@
-# This is an outdated repository
+# This is an alternative repository for monunting the display horizontally
 
-This repository is an archived snapshot of the pre-1.0 HASP project.
-[Click here to head to the new home for HASPone](https://github.com/HASwitchPlate/HASPone)
+The HASwitchPlate project has evolved since. The original creator made a new awesome version, hovewer it is too much work to make the new version compatible with horizontal mounts of the display (i.e., to fit in a 503 electrical box).
+Please note that all the pictures in this repository have not been updated to match the horizontal design of the display.
+The substantial changes to the design and configuration of the display to make it horizontal are in the folders:
+  - 3D_Printable_Models/Horizontal version
+  - Nextion_HMI/Horizontal version
 
-Below you'll find saved information about previous versions of HASP.
+The new version of the device and related software and firmware is called [HASPone](https://github.com/HASwitchPlate/HASPone).
 
 ---
 
