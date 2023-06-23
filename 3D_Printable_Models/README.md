@@ -1,3 +1,6 @@
+# Redesigned horizontal version for usage in other countries with 503 electrical box
+See the folder "New version" for the correct files. All the rest stays the same.
+
 # Switch Plate model for single-gang workbox
 
 ## 3D Printed Enclosure
