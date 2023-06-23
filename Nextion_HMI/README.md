@@ -1,4 +1,4 @@
-# Redesigned version for usage in other countries with 503 electrical box
+# Redesigned horizontal version for usage in other countries with 503 electrical box
 
 See the folder "New version" for the correct files. All the rest stays the same.
 
