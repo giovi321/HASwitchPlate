@@ -22,16 +22,6 @@ The [Arduino code](Arduino_Sketch) for the ESP8266 provides a generic gateway be
 
 ![Scene controller](https://github.com/aderusha/HASwitchPlate/blob/master/Documentation/Images/HASwitchPlate_Demo_SceneController.png?raw=true) ![Status display](https://github.com/aderusha/HASwitchPlate/blob/master/Documentation/Images/HASwitchPlate_Demo_Status.png?raw=true) ![Media control](https://github.com/aderusha/HASwitchPlate/blob/master/Documentation/Images/HASwitchPlate_Demo_Media.png?raw=true) ![Alarm Panel](https://github.com/aderusha/HASwitchPlate/blob/master/Documentation/Images/HASwitchPlate_Demo_AlarmPanel.png?raw=true) ![Slider/Dimmer Controls](https://github.com/aderusha/HASwitchPlate/blob/master/Documentation/Images/HASwitchPlate_Demo_Dimmers.png?raw=true) ![HVAC Controls](https://github.com/aderusha/HASwitchPlate/blob/master/Documentation/Images/HASwitchPlate_Demo_HVAC.png?raw=true) ![Light toggles](https://github.com/aderusha/HASwitchPlate/blob/master/Documentation/Images/HASwitchPlate_Demo_LightToggles.png?raw=true) ![Fan controller](https://github.com/aderusha/HASwitchPlate/blob/master/Documentation/Images/HASwitchPlate_Demo_FanControls.png?raw=true) ![WiFi Setup](https://github.com/aderusha/HASwitchPlate/blob/master/Documentation/Images/WiFi_Config_0.png?raw=true)
 
-## Purchase an assembled unit
-
-As this build requires some specialist skills and tools, I will occasionally be [offering assembled devices for sale here](https://www.tindie.com/products/luma/ha-switchplate-hasp-single-wide-assembled/).
-
-## Buy me a coffee
-
-[![Buy me a coffee](https://www.buymeacoffee.com/assets/img/custom_images/black_img.png)](https://www.buymeacoffee.com/gW5rPpsKR)
-
-This project is powered by coffee.  [I might get a little weird about it at times](https://github.com/aderusha/RoastLearner), but it's not much of a stretch to suggest that coffee both powers and consumes a fair portion of my mental energy.  [Hook me up if you think HASP is cool](https://www.buymeacoffee.com/gW5rPpsKR).  Thanks!
-
 ## Bill of Materials
 
 To build a simple version of this project you will minimally need the [Nextion display](https://amzn.to/2DIpahB) and the [WeMos D1 Mini](https://amzn.to/2Gc92Xs), 4 jumper wires, and a USB cable to power both devices.
@@ -40,8 +30,8 @@ A complete build that's ready to install will require the following components:
 
 * [Nextion 2.4" LCD Touchscreen display](https://amzn.to/2RksiXr)
 * [WeMos D1 Mini ESP8266 WiFi microcontroller](https://amzn.to/2UZlga4)
-* [3D printed switch plate](3D_Printable_Models/HASwitchPlate_front_single.stl)
-* [3D printed rear cover](3D_Printable_Models/HASwitchPlate_rear_nolcdmod.stl)
+* [3D printed switch plate](3D_Printable_Models/)
+* [3D printed rear cover](3D_Printable_Models/)
 * [Mean Well IRM-03-5 AC to 5VDC Power supply](https://amzn.to/2UUWGa8)
 * [PCB](PCB/)
 * [2N3904 NPN Transistor](https://amzn.to/2TRuwwD)
