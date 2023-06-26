@@ -15,7 +15,7 @@ The mosquitto broker package requires a username and password.  Be sure to confi
 Once those are installed, configured, and started, you can open the Terminal and execute the following command:
 
 ```bash
-bash <(wget -qO- -o /dev/null https://raw.githubusercontent.com/aderusha/HASwitchPlate/master/Home_Assistant/deployhasp.sh)
+bash <(wget -qO- -o /dev/null https://raw.githubusercontent.com/giovi321/HASwitchPlate/master/Home_Assistant/deployhasp.sh)
 ```
 
 You will be prompted for a device name and the script will do the rest.  Once it completes, the script will display a Lovelace configuration which you can paste into your existing Home Assistant UI through the Lovelace editor.
@@ -35,7 +35,7 @@ You'll need to ssh to your Home Assistant installation as a user who has access 
 ```bash
 sudo su -s /bin/bash homeassistant
 cd ~/.homeassistant
-bash <(wget -qO- -o /dev/null https://raw.githubusercontent.com/aderusha/HASwitchPlate/master/Home_Assistant/deployhasp.sh)
+bash <(wget -qO- -o /dev/null https://raw.githubusercontent.com/giovi321/HASwitchPlate/master/Home_Assistant/deployhasp.sh)
 ```
 
 You will be prompted for a device name and the script will do the rest.  Once it completes, restart your Home Assistant service to apply changes and then continue to the [First time setup](#first-time-setup) section below to initialize your environment.
@@ -72,14 +72,14 @@ recorder:
 
 ### `deployhasp.sh`
 
-Now you'll need to copy over the [packages directory](https://github.com/aderusha/HASwitchPlate/tree/master/Home_Assistant/packages) and modify it for your new device.  The folder name, file names, and the contents of the `.yaml` files will all need to have `plate01` replaced with your new device name.
+Now you'll need to copy over the [packages directory](https://github.com/giovi321/HASwitchPlate/tree/master/Home_Assistant/packages) and modify it for your new device.  The folder name, file names, and the contents of the `.yaml` files will all need to have `plate01` replaced with your new device name.
 
 The `deployhasp.sh` script will automate this task and can be executed with the following commands:
 
 ```bash
 sudo su -s /bin/bash homeassistant
 cd ~/.homeassistant
-bash <(wget -qO- -o /dev/null https://raw.githubusercontent.com/aderusha/HASwitchPlate/master/Home_Assistant/deployhasp.sh)
+bash <(wget -qO- -o /dev/null https://raw.githubusercontent.com/giovi321/HASwitchPlate/master/Home_Assistant/deployhasp.sh)
 ```
 
 Finally, you'll need to restart Home Assistant to apply your changes then continue to the [First time setup](#first-time-setup) section below to initialize your environment.
@@ -94,4 +94,4 @@ Lovelace doesn't support automation of the UI so a few manual steps need to happ
 
 Upon startup the default HMI display file contains empty buttons with no text.  Launch the Home Assistant web UI and look for a new tab with your chosen device name.  Select that tab and look for the automation titled `hasp_<your_device_name>_00_FirstTimeSetup`.  Select that automation and click "TRIGGER" to apply the basic configuration to your new device.
 
-![Home_Assistant_FirstTimeSetup](https://github.com/aderusha/HASwitchPlate/blob/master/Documentation/Images/Home_Assistant_FirstTimeSetup.png?raw=true)
+![Home_Assistant_FirstTimeSetup](https://github.com/giovi321/HASwitchPlate/blob/master/Documentation/Images/Home_Assistant_FirstTimeSetup.png?raw=true)
