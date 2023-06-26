@@ -3,7 +3,15 @@ See the folder "Horizontal version" for the correct files. All the rest stays th
 
 Printing: I have printed those with a resin printer, everything fits perfecly. However, I suggest to glue the cover to the face plate instead of using screws as it was originally designed for use with a filament printer and the screws might not fit using a resin printer.
 
-# Switch Plate model for single-gang workbox
+The design adapts to the following box:
+![image](https://github.com/giovi321/HASwitchPlate/assets/6443515/d6f00249-f9d8-4a75-8f2f-6c722b626235)
+![image](https://github.com/giovi321/HASwitchPlate/assets/6443515/69849f30-44b9-448f-884d-e6bb45d024a7)
+
+And looks like this:
+![image](https://github.com/giovi321/HASwitchPlate/assets/6443515/bd0c1546-7b54-4476-8549-c900e888d822)
+
+
+# Switch Plate model for other countries' single-gang workbox
 
 ## 3D Printed Enclosure
 
