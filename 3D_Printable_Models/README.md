@@ -1,5 +1,6 @@
 # Redesigned horizontal version for usage in other countries with 503 electrical box
-See the folder "New version" for the correct files. All the rest stays the same.
+See the folder "Horizontal version" for the correct files. All the rest stays the same.
+
 Printing: I have printed those with a resin printer, everything fits perfecly. However, I suggest to glue the cover to the face plate instead of using screws as it was originally designed for use with a filament printer and the screws might not fit using a resin printer.
 
 # Switch Plate model for single-gang workbox
