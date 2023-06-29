@@ -9,7 +9,7 @@ If you're running Windows and you just want to get started without dealing with 
 ### Required Downloads
 
 * NodeMCU Flasher: [Win32](https://github.com/nodemcu/nodemcu-flasher/raw/master/Win32/Release/ESP8266Flasher.exe) / [Win64](https://github.com/nodemcu/nodemcu-flasher/raw/master/Win64/Release/ESP8266Flasher.exe)
-* [HASwitchPlate Firmware](https://github.com/aderusha/HASwitchPlate/raw/master/Arduino_Sketch/HASwitchPlate.ino.d1_mini.bin)
+* [HASwitchPlate Firmware](https://github.com/giovi321/HASwitchPlate/raw/master/Arduino_Sketch/HASwitchPlate.ino.d1_mini.bin)
 
 ### NodeMCU Flasher Process
 
